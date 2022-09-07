@@ -1,0 +1,23 @@
+{
+   "name": "Argoid_IntegrationModule",
+   "description": "Argoid integration module for recommendations",
+   "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Argoid/magento-integration"
+        }
+    ],
+   "require": {
+      "php": "~7.4.0",
+      "magento/framework": "2.0.0",
+      "magento/module-integration": "2.0.0"
+   },
+   "type": "magento2-module",
+   "version": "1.0",
+   "autoload": {
+      "files": [ "registration.php" ],
+      "psr-4": {
+         "Argoid\\IntegrationModule\\": ""
+      }
+   }
+}

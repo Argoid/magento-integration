@@ -1,0 +1,7 @@
+<integrations>
+   <integration name="argoidIntegration">
+       <email>harsh@argoid.com</email>
+       <endpoint_url>https://dev.app.argoid.com/magento/v1/auth/callback/token</endpoint_url>
+       <identity_link_url>https://dev.app.argoid.com/magento/v1/auth/login</identity_link_url>
+   </integration>
+</integrations>
