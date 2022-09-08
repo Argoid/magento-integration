@@ -1,5 +1,5 @@
 {
-   "name": "argoid_IntegrationModule",
+   "name": "argoid",
    "description": "Argoid integration module for recommendations",
    "repositories": [
         {
