@@ -2,9 +2,9 @@
     <integration name="argoidIntegration">
         <resources>
 	    <resource name="Magento_Sales::sales" />
-            <resource name="Magento_Sales::sales_operation" />
-            <resource name="Magento_Sales::sales_order" />
-            <resource name="Magento_Sales::actions" />
+        <resource name="Magento_Sales::sales_operation" />
+        <resource name="Magento_Sales::sales_order" />
+        <resource name="Magento_Sales::actions" />
 	    <resource name="Magento_Sales::sales_orders" />
 	    <resource name="Magento_Catalog::catalog" />
 	    <resource name="Magento_Catalog::catalog_inventory" />

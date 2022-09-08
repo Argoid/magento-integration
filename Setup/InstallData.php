@@ -1,5 +1,5 @@
 <?php
-namespace Argoid\IntegrationModule\Setup;
+namespace argoid\IntegrationModule\Setup;
 
 use Magento\Framework\Setup\ModuleContextInterface;
 use Magento\Framework\Setup\ModuleDataSetupInterface;
